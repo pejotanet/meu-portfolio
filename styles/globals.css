@@ -1,0 +1,12 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.custom-img {
+  background-image: url('../public/backgroud-top.jpg');
+}
+
+.profile-pic {
+  background-image: url('../public/perfilFoto.jpeg');
+}
+
